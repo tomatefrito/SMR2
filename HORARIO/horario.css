@@ -1,0 +1,41 @@
+.SOR {
+    
+    background-color: cadetblue;
+}
+
+.SI {background-color: brown;
+
+}
+
+.EIES {
+    background-color: darkorchid;
+
+}
+
+.RECREO {
+    background-color: deepskyblue; 
+
+}
+
+.Hora {background-color: rgb(148, 145, 235);
+
+}
+
+th {background-color: rgb(102, 102, 170);
+
+}
+
+.NADA {background-color: rgb(102, 102, 170);
+
+}
+
+.COMIDA {background-color: rgb(21, 77, 126);}
+
+.AW {background-color: cornflowerblue;}
+
+.SR {background-color: deeppink;}
+
+tablet {
+    margin: 20px auto;
+    text-align: center;
+}
